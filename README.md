@@ -24,7 +24,7 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/your-profile-link](https://www.linkedin.com/in/bhavana-natuva-9295a12b7/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/bhavana-natuva-9295a12b7]  
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/Bhavvanna)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/bhavanaviswanath)
 
